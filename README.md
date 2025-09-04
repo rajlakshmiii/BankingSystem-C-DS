@@ -1,9 +1,6 @@
 # 🏦 Bank Management System - C & Data Structures
 
-[![C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)](https://www.cprogramming.com/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)  
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+[![C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)](https://www.cprogramming.com/) [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 ---
 
 ## 💡 Project Overview
