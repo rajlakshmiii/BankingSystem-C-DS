@@ -12,10 +12,6 @@ It allows users to manage multiple bank accounts efficiently with features like 
 
 This project is ideal for understanding **Data Structures in real-life applications**.  
 
----
-
-## 🖼️ Project Logo / Banner
-![Banking Logo](https://cdn-icons-png.flaticon.com/512/3082/3082619.png)  
 
 ---
 
