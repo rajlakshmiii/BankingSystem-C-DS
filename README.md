@@ -2,7 +2,7 @@
 
 [![C](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)](https://www.cprogramming.com/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)  
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]  
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
